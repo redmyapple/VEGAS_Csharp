@@ -1,0 +1,12 @@
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\bin\Debug\Halcon_DO_Net.exe.config
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\bin\Debug\Halcon_DO_Net.exe
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\bin\Debug\Halcon_DO_Net.pdb
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.csproj.AssemblyReference.cache
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.Properties.Resources.resources
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.csproj.GenerateResource.cache
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.exe
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.pdb
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\bin\Debug\halcondotnet.dll
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.Form1.resources
+C:\Users\Jarvis\source\repos\Halcon_DO_Net\obj\Debug\Halcon_DO_Net.csproj.CopyComplete
