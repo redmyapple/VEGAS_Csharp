@@ -47,9 +47,9 @@ namespace EMS
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.Location = new System.Drawing.Point(17, 234);
+            this.button1.Location = new System.Drawing.Point(323, 243);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(507, 31);
+            this.button1.Size = new System.Drawing.Size(214, 38);
             this.button1.TabIndex = 0;
             this.button1.Text = "开始转换";
             this.button1.UseVisualStyleBackColor = true;
@@ -62,9 +62,9 @@ namespace EMS
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(419, 118);
+            this.button2.Location = new System.Drawing.Point(118, 243);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(105, 38);
+            this.button2.Size = new System.Drawing.Size(199, 38);
             this.button2.TabIndex = 1;
             this.button2.Text = "选择文件";
             this.button2.UseVisualStyleBackColor = true;
@@ -84,18 +84,18 @@ namespace EMS
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(15, 187);
+            this.label2.Location = new System.Drawing.Point(14, 196);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(98, 14);
+            this.label2.Size = new System.Drawing.Size(105, 14);
             this.label2.TabIndex = 4;
-            this.label2.Text = "目标TIF文件：";
+            this.label2.Text = "目标TIFF文件：";
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(115, 184);
+            this.textBox2.Location = new System.Drawing.Point(115, 177);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(279, 35);
+            this.textBox2.Size = new System.Drawing.Size(422, 42);
             this.textBox2.TabIndex = 5;
             // 
             // label3
@@ -109,28 +109,26 @@ namespace EMS
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(115, 52);
+            this.textBox3.Location = new System.Drawing.Point(118, 52);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(108, 31);
+            this.textBox3.Size = new System.Drawing.Size(199, 43);
             this.textBox3.TabIndex = 8;
-            this.textBox3.Text = "3296";
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(287, 52);
+            this.textBox4.Location = new System.Drawing.Point(356, 52);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(108, 31);
+            this.textBox4.Size = new System.Drawing.Size(181, 43);
             this.textBox4.TabIndex = 9;
-            this.textBox4.Text = "2472";
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(246, 61);
+            this.label4.Location = new System.Drawing.Point(330, 61);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(14, 14);
             this.label4.TabIndex = 10;
@@ -139,7 +137,7 @@ namespace EMS
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(157, 36);
+            this.label5.Location = new System.Drawing.Point(197, 35);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(21, 14);
             this.label5.TabIndex = 12;
@@ -148,7 +146,7 @@ namespace EMS
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(325, 36);
+            this.label6.Location = new System.Drawing.Point(443, 36);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(21, 14);
             this.label6.TabIndex = 13;
@@ -156,10 +154,10 @@ namespace EMS
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(115, 118);
+            this.textBox1.Location = new System.Drawing.Point(115, 121);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(279, 39);
+            this.textBox1.Size = new System.Drawing.Size(422, 36);
             this.textBox1.TabIndex = 2;
             // 
             // Form1
